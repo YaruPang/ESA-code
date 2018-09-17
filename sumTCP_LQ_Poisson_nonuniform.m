@@ -1,7 +1,6 @@
 function [] = sumTCP_LQ_Poisson_nonuniform()
 
 clc
-
 format long %data is represented in a long precision.
 
 % for k = 7:1:8
